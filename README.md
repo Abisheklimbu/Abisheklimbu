@@ -1,6 +1,17 @@
+<div style="position: relative;">
+  <img src="https://github.com/Abisheklimbu/Abisheklimbu/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" style="width: 100%;">
+  <div style="position: absolute; top: 0; left: 50%; transform: translate(-50%, 50%);">
+    <a href="https://github.com/Abisheklimbu">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abisheklimbu&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+    </a>
+  </div>
+</div>
+
+
 # Github_Design
 # 💫 About Me:
 Currently studying BSc (Hons) Computer Systems Engineering (IT).<br>Passionate about Machine Learning and Data Science, with strong skills in python.
+
 
 
 ## 🌐 Socials:
