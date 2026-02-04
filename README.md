@@ -13,16 +13,3 @@ Currently studying BSc (Hons) Computer Systems Engineering (IT).<br>Passionate a
 ![Neural Network](https://img.shields.io/badge/Neural%20Network-%23FF6F00.svg?style=for-the-badge&logo=Neural%20Network&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-%23E4405F.svg?style=for-the-badge&logo=CNN&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%2300b4d9.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)![Autonomous Driving](https://img.shields.io/badge/Autonomous%20Driving-AI-%23000000.svg?style=for-the-badge)![Mathematics](https://img.shields.io/badge/Mathematics-%2300599C.svg?style=for-the-badge)
-
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abisheklimbu&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abisheklimbu&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abisheklimbu&layout=compact&theme=github_dark)
-
-
-
-
