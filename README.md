@@ -1,6 +1,6 @@
 # Github_Design
 # 💫 About Me:
-Currently studying BSc (Hons) Computer Systems Engineering (IT).<br>Passionate about Machine Learning and Data Science, with strong skills in python.
+I have recently graduated from ISMT with a BSc (Hons) in Computer Systems Engineering.<br>Passionate about Machine Learning and Data Science, with strong skills in python.
 
 
 
